@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TriviaGameConstraintLayout</string>
+    <string name="app_logo_bottom">DONE THAT</string>
+    <string name="app_logo_top">BEEN THERE</string>
+    <string name="app_copyright">Copyright (C)\nAlejandra Català Stillman</string>
+</resources>
